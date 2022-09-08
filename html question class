@@ -1,0 +1,121 @@
+<!doctype html>
+<html>
+<head>
+<meta charset ="utf-8">
+<title>Table creation</title>
+</head>
+<body>
+<table border="10">
+<caption>Student</caption>
+<tr>
+<th>SNO</tn>
+<th>NAME</th>
+<th>Course</th>
+</tr>
+<tr>
+<td>1</td>
+<td>abc</td>
+<td>mca</td>
+</tr>
+<tr>
+<td>2</td>
+<td>xyz</td>
+<td>mca</td>
+</tr>
+<tr>
+<td>3</td>
+<td>abz</td>
+<td>mca</td>
+</tr>
+</table>
+</body>
+
+
+
+<body>
+<table border="10">
+<caption>Student details</caption>
+<tr>
+<th>SNO</tn>
+<th>NAME</th>
+<th>Course</th>
+</tr>
+<tr>
+<tdrowspan="2"></td>
+<td>Ram</td>
+<td>mca</td>
+</tr>
+<tr>
+<tr>
+<td>1</td>
+<td>Akshay</td>
+<td>
+<ol>
+<li>one two three four</li>
+<li>five six seven eight</li>
+<li>nine ten eleven twelve</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>sakshi</td>
+<td>cs</td>
+</tr>
+<tr>
+<td colspan="3">End Details</td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+<h1>My Info</h1>
+<p>My name is <b>Your Name</b></p>
+<p>I am <b>Available</b> for hire</p>
+<p>My hour old price was <strike>640</strike> and the new price is  <mark>$30</mark></p>
+<p>visit my website from this link <a href="google.com">click here</a></p>
+<hr>
+<h2>Here is some of my client</h2>
+<hr>
+<h2>My Skills</h2>
+<ul>
+<li>HTML</li>
+<li>Css</li>
+<li>javascript
+<ul>
+<li>Vues</li>
+<li>Reactjs</li>
+<li>Angular
+<ol>
+<li value=4>v4.0</li>
+<li value=4>v5.0</li>
+<li value=4>v6.0</li>
+<li value=4>v7.0</li>
+<li value=4>v8.0</li>
+</ol>
+</li>
+<li>Svelte
+</ul>
+
+
+</li>
+</li>
+</ul>
+<li>Python</li>
+
+
+
+</body>
+</html>
+
+
+
+
+
